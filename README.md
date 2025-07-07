@@ -7,9 +7,10 @@ Great for quick practice with randomness, image rendering, and DOM manipulation.
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo 
 
-👉 [Click here to try it out]
+👉 https://kvchi.github.io/diceRoller-program/
+
 
 ---
 
